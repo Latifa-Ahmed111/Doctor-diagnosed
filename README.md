@@ -1,2 +1,2 @@
 # self-diagnosed
- system which it can diagnose  patient by passing a symptoms and can he be  diagnosed by certain disease
+ system which it can diagnose  patient by passing a symptoms and  he  can be  diagnosed by certain disease
